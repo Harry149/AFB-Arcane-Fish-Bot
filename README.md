@@ -3,6 +3,11 @@ Take your fishing in **Arcane Odyssey** to the next level with **AFB**, the ulti
 
 ---
 
+## 🌐 **Join the Community!**  
+Connect with other users, get support, and access updates by joining our **[Discord Server](https://discord.gg/u7DUxh3wSf)**. Have questions or need assistance? Reach out to me on Discord: **hryy_**.  
+
+---
+
 ## ✨ **Features**  
 - 🐟 **Effortless Fishing Automation**  
   Say goodbye to manual casting and waiting! **AFB** handles the entire fishing process—casting, reeling, and everything in between—so you can focus on other aspects of the game.
@@ -41,11 +46,6 @@ We’re actively looking for **content creators** to help promote **AFB**! If yo
 - **⚡ Highly Efficient**: Designed for maximum performance, AFB ensures every catch counts while minimizing downtime.  
 - **🤝 User-Friendly**: With detailed customization options, it’s perfect for beginners and advanced users alike.  
 - **🔄 Frequent Updates**: AFB is actively maintained and will receive **regular updates** to improve features, performance, and functionality over time.  
-
----
-
-## 🌐 **Join the Community!**  
-Connect with other users, get support, and access updates by joining our **[Discord Server](https://discord.gg/u7DUxh3wSf)**. Have questions or need assistance? Reach out to me on Discord: **hryy_**.  
 
 ---
 
